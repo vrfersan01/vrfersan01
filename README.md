@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola, soy Víctor 👋
 
-<!--
-**vrfersan01/vrfersan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de 2º de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Madrid, especializándome en backend con **C# y .NET**.
 
-Here are some ideas to get you started:
+Antes de programar trabajé varios años en diseño digital para el sector dental. Entre otras cosas me sirvió para conocer cómo funciona un entorno laboral en el que varios compañeros
+trabajan en sintonía para entregar el mejor producto. Además, me dotó de una ética y un compromiso laboral que intento aplicar a cada faceta de mi vida.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Qué estoy construyendo
+
+- 🦷 [**Clínica Dental API**](enlace-al-repo) — API REST con ASP.NET Core, Entity Framework y SQL Server. Gestión de pacientes, dentistas y citas.
+- 📋 [**Gestor de Tareas CLI**](enlace-al-repo) — Aplicación de consola en C# con persistencia en SQLite.
+
+## Stack
+
+`C#` `.NET 8` `ASP.NET Core` `Entity Framework` `SQL Server` `Git` `Docker (en progreso)`
+
+## Ahora mismo
+
+Dockerizando la API y preparando las prácticas de FCT (marzo–junio 2027).
+
+## Contacto
+
+[LinkedIn] https://www.linkedin.com/in/v%C3%ADctor-fern%C3%A1ndez-s%C3%A1nchez-103b323a9/ ·
+[email] vrfernandezsanchez@educa.madrid.org
