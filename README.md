@@ -7,8 +7,8 @@ trabajan en sintonía para entregar el mejor producto. Además, me dotó de una 
 
 ## Qué estoy construyendo
 
-- 🦷 [**Clínica Dental API**](enlace-al-repo) — API REST con ASP.NET Core, Entity Framework y SQL Server. Gestión de pacientes, dentistas y citas.
-- 📋 [**Gestor de Tareas CLI**](enlace-al-repo) — Aplicación de consola en C# con persistencia en SQLite.
+- 📋 [**Gestor de Tareas API**](https://github.com/vrfersan01/tareas-api) — API REST de Tareas con ASP.NET Core (.NET 8). CRUD completo con datos en memoria, validación de modelo y documentación con Swagger. 
+- 📋 [**Gestor de Tareas CLI**](https://github.com/vrfersan01/gestor-tareas) — Aplicación de consola en C# con persistencia en SQLite.
 
 ## Stack
 
