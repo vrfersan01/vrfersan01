@@ -20,5 +20,6 @@ Dockerizando la API y preparando las prácticas de FCT (marzo–junio 2027).
 
 ## Contacto
 
-[LinkedIn] https://www.linkedin.com/in/v%C3%ADctor-fern%C3%A1ndez-s%C3%A1nchez-103b323a9/ ·
+[LinkedIn] https://www.linkedin.com/in/v%C3%ADctor-fern%C3%A1ndez-s%C3%A1nchez-103b323a9/
+
 [email] vrfernandezsanchez@educa.madrid.org
