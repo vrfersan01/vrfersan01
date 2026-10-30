@@ -8,7 +8,7 @@ y soy graduado en Filología Hispánica.
 - [Migración y auditoría de datos](https://github.com/vrfersan01/auditoria-restaurantes-xml): Java · validación de datos · XML con DOM, SAX y JAXB
 - [Juego de los Pastores (Misère)](https://github.com/vrfersan01/juego-pastores-misere): Java · procesos (ProcessBuilder) · protocolo de texto · IAs
 - [Gestor de Tareas API](https://github.com/vrfersan01/gestor-tareas): C# · SQLite
-- 
+  
 ## Stack
 `Java` `C#` `.NET` `ASP.NET Core` `SQL` `SQL Server` `XML` `JAXB` `Python` `Git`
 
