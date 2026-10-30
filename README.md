@@ -1,25 +1,21 @@
-# Hola, soy Víctor 👋
+# Hola, soy Víctor
+Estudiante de 2.º de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Madrid,
+orientado al **backend con Java y C#/.NET**.
+Antes de programar trabajé cinco años en diseño digital para el sector dental,
+y soy graduado en Filología Hispánica.
 
-Estudiante de 2º de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Madrid, especializándome en backend con **C# y .NET**.
-
-Antes de programar trabajé varios años en diseño digital para el sector dental. Entre otras cosas me sirvió para conocer cómo funciona un entorno laboral en el que varios compañeros
-trabajan en sintonía para entregar el mejor producto. Además, me dotó de una ética y un compromiso laboral que intento aplicar a cada faceta de mi vida.
-
-## Qué estoy construyendo
-
-- 📋 [**Gestor de Tareas API**](https://github.com/vrfersan01/tareas-api) — API REST de Tareas con ASP.NET Core (.NET 8). CRUD completo con datos en memoria, validación de modelo y documentación con Swagger. 
-- 📋 [**Gestor de Tareas CLI**](https://github.com/vrfersan01/gestor-tareas) — Aplicación de consola en C# con persistencia en SQLite.
-
+## Proyectos
+- [Migración y auditoría de datos](https://github.com/vrfersan01/auditoria-restaurantes-xml): Java · validación de datos · XML con DOM, SAX y JAXB
+- [Juego de los Pastores (Misère)](https://github.com/vrfersan01/juego-pastores-misere): Java · procesos (ProcessBuilder) · protocolo de texto · IAs
+- [Gestor de Tareas API](https://github.com/vrfersan01/gestor-tareas): C# · SQLite
+- 
 ## Stack
-
-`C#` `.NET 8` `ASP.NET Core` `Entity Framework` `SQL Server` `Git` `Docker (en progreso)`
+`Java` `C#` `.NET` `ASP.NET Core` `SQL` `SQL Server` `XML` `JAXB` `Python` `Git`
 
 ## Ahora mismo
-
-Dockerizando la API y preparando las prácticas de FCT (marzo–junio 2027).
+Buscando FCT en Madrid (marzo–junio 2027).
 
 ## Contacto
-
 [LinkedIn](https://www.linkedin.com/in/v%C3%ADctor-fern%C3%A1ndez-s%C3%A1nchez-103b323a9/)
 
 [email](vrfernandezsanchez@educa.madrid.org)
